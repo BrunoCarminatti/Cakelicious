@@ -1,5 +1,5 @@
-# Cakelicious
-Projeto de um site com estilização para confecções de bolos, realizado com a ajuda do workshop da PET Informática UEM, feito em HTML e CSS.
+<center># Cakelicious</center>
+Projeto de um site com estilização para confecções de bolos, realizado com a ajuda do workshop da PET Informática UEM, feito majoritariamente em HTML e CSS.
 
 ![Image](https://i.imgur.com/T6ebL9d.png)
 
